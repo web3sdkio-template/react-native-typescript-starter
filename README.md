@@ -20,12 +20,12 @@ You can start editing the page by modifying `App.jsx`. The page auto-updates as 
 
 To learn more about web3sdkio and Next.js, take a look at the following resources:
 
-- [web3sdkio Portal](https://portal.web3sdk.io) - check our guides and development resources.
-- [web3sdkio SDK](https://portal.web3sdk.io/sdk) - check our guides and development resources.
+- [web3sdkio Portal](https://docs.web3sdk.io) - check our guides and development resources.
+- [web3sdkio SDK](https://docs.web3sdk.io/sdk) - check our guides and development resources.
 - [React Native Documentation](https://reactnative.dev/) - learn about Next.js features and API.
 
 You can check out [the web3sdkio GitHub organization](https://github.com/web3sdkio) - your feedback and contributions are welcome!
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).

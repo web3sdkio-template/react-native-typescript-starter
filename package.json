@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@ethersproject/shims": "^5.7.0",
-    "@web3sdkio/sdk": "^3",
+    "@web3sdkio/sdk": "^1.0.12",
     "ethers": "^5.7.2",
     "expo": "^46.0.16",
     "expo-status-bar": "^1.4.0",
